@@ -5,9 +5,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541995937317&text=Olá!)](https://api.whatsapp.com/send?phone=5541995937317&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:abnerm80@gmail.com)
 
-## Olá! 👋
+## Olá! 👋 bem-vindos ao meu perfil!
 
-Meu nome é Abner, Desenvolvedor de Sistemas e apaixonado por Tecnologia.
+Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 
 - :office_worker: Atualmente estou trabalhando como desenvolvedor de banco de dados - PL/SQL
 - :blue_heart: Techs: Java, Node.js, JavaScript, TypeScript, React.js, React Native entre outras.
