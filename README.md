@@ -9,9 +9,8 @@
 
 Meu nome é Abner, Desenvolvedor de Sistemas e apaixonado por Tecnologia.
 
-- :office_worker: Estagiário Desenvolvedor PL/SQL ORACLE na **Trombini Embalagens**
+- :books: 4º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
 - :blue_heart: Techs: Java, Node.js, JavaScript, TypeScript, React.js, React Native entre outras.
-- :books: 4º Período Bacharelado em Sistemas de Informação - PUCPR :heart:
 
 ---
 
