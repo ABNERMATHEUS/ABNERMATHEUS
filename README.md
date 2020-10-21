@@ -10,9 +10,9 @@
 Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 
 - :office_worker: Atualmente estou trabalhando como desenvolvedor de banco de dados - PL/SQL Oracle
-- :blue_heart: Techs: Java, Spring, Node.js, JavaScript, TypeScript, React.js, React Native entre outras.
+- :blue_heart: Techs: Java, Spring, Node.js, JavaScript, React.js e PL SQL entre outras.
 - :books: 4º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
--  🌱 No momento estudando Spring para criação de microserviços
+-  🌱 No momento estudando C# para criação de microserviços
 
 ---
 
