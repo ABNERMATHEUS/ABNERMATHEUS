@@ -14,8 +14,12 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 -  🌱 No momento estudando Teste automatizado em C# e Kubernetes.
 
 ---
-
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=ABNERMATHEUS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ABNERMATHEUS)
+<div style="display:flex; flex-direction:row-reverse;   justify-content:space-between; width:100%; ">
+  
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABNERMATHEUS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ABNERMATHEUS&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+</div>
 
 ## Algumas tecnologias
 
