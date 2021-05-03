@@ -9,9 +9,9 @@
 Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia. 
 
 - :office_worker: Atualmente estou trabalhando como desenvolvedor junior C#.
-- :blue_heart: Techs: Java, Spring, C#, .NET Core, Node.js, JavaScript, React.js e PL SQL Oracle entre outras.
+- :blue_heart: Techs: C#, .NET Core, Java, Spring,  Node.js, JavaScript, React.js e PL SQL Oracle entre outras.
 - :books: 5º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
--  🌱 No momento estudando Teste automatizado em C#.
+-  🌱 No momento estudando boas práticas de programação e arquitetura de sofware.
 
 ---
 <div>
