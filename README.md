@@ -1,8 +1,12 @@
 # :man_technologist: Abner Matheus
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ABNERMATHEUS)](https://github.com/ABNERMATHEUS)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-matheus/)](https://www.linkedin.com/in/abner-matheus/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abnerm80@gmail.com)](mailto:abnerm80@gmail.com)
+<!-- SOCIAL -->
+<div>
+    <a href="mailto:abnerm80@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-E4400F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+    <a href="https://www.instagram.com/abner_math/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/abner-matheus/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+<!-- SOCIAL -->
 
 ## Olá! 👋🏾 bem-vindos ao meu perfil!
 
@@ -18,7 +22,9 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 <div>
   
    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages" style="margin-right:180px;" />
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ABNERMATHEUS&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Most Used Languages" style="margin-right:90px;" />
+  
   
 
 </div>
