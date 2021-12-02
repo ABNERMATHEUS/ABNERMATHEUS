@@ -18,8 +18,25 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 - :books: 7º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
 -  🌱 No momento estudando boas práticas de programação e arquitetura de sofware.
 
----
+
+## Algumas tecnologias
+
 <div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Abner-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Abner-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Abner-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Abner-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ 
+  <img align="center" alt="Abner-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Abner-Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Abner-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+ 
+</div>
+<div/>
+
+---
+
   
    
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages" style="margin-right:180px;" />
@@ -29,20 +46,4 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 
 </div>
 
-## Algumas tecnologias
-
-<div>
- <br>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_datagrip.svg" alt="jetbrains_datagrip" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/dockerhub.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_rider.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="npm" style="vertical-align:top; margin:4px">
-<br>
-<div/>
 
