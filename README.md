@@ -20,11 +20,12 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 
 ---
 
-<div style="display: inline_block"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ABNERMATHEUS&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Most Used Languages" style="margin-right:120px;" />
-   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages" style="margin-right:180px;" />
-  </div>
+  
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnermatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## Algumas tecnologias
 
