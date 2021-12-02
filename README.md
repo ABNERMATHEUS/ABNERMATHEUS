@@ -18,6 +18,13 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
 - :books: 7º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
 -  🌱 No momento estudando boas práticas de programação e arquitetura de sofware.
 
+---
+
+<div style="display: inline_block"> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ABNERMATHEUS&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Most Used Languages" style="margin-right:120px;" />
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages" style="margin-right:180px;" />
+  </div>
 
 ## Algumas tecnologias
 
@@ -33,16 +40,9 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
   <img align="center" alt="Abner-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 <div/>
-
----
-
-<div style="display: inline_block"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ABNERMATHEUS&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Most Used Languages" style="margin-right:120px;" />
-   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages" style="margin-right:180px;" />
-  </div>
     
-
+---
+    
 ![Snake animation](https://github.com/abnermatheus/abnermatheus/blob/output/github-contribution-grid-snake.svg)
   
 
