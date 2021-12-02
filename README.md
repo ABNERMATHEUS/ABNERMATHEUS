@@ -41,6 +41,9 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
    
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight" alt="Most Used Languages" style="margin-right:180px;" />
   </div>
+    
+
+![Snake animation](https://github.com/abnermatheus/abnermatheus/blob/output/github-contribution-grid-snake.svg)
   
 
 
