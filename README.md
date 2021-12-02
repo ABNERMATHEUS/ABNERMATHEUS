@@ -27,7 +27,7 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Algumas tecnologias
+## Tecnologias que utilizo
 
 <div>
  <div style="display: inline_block"><br>
