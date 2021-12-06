@@ -12,11 +12,11 @@
 
 Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia. 
 
-- :office_worker: Atualmente estou trabalhando como desenvolvedor pleno C#.
-- :blue_heart: Techs Principais: Desenvolvimento backend em C# com .NET.
-- :blue_heart: Techs Secundárias: Java, JavaScript, React.js e PL SQL Oracle entre outras.
-- :books: 7º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
--  🌱 No momento estudando boas práticas de programação e arquitetura de sofware.
+- <h4>:office_worker: Atualmente estou trabalhando como desenvolvedor pleno C#.</h4>
+- <h4>:blue_heart: Techs Principais: Desenvolvimento backend em C# com .NET.</h4>
+- <h4>:blue_heart: Techs Secundárias: Java, JavaScript, React.js e PL SQL Oracle entre outras.</h4>
+- <h4>:books: 7º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:</h4>
+- <h4> 🌱 No momento estudando boas práticas de programação e arquitetura de sofware.</h4>
 
 ---
 
