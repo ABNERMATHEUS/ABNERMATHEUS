@@ -13,10 +13,10 @@
 Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia. 
 
 - <h4>:office_worker: Atualmente estou trabalhando como engenheiro de software com a stack .NET</h4>
-- <h4>:blue_heart: Techs Principais: Desenvolvimento backend em C# com .NET.</h4>
-- <h4>:blue_heart: Techs Secundárias: Java, JavaScript, React.js e PL SQL Oracle entre outras.</h4>
-- <h4>:books: 7º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:</h4>
-- <h4> 🌱 No momento estudando arquitetura de software e cloud.</h4>
+- <h4>:blue_heart: Techs Principais: Desenvolvimento backend em C# com .NET e Azure.</h4>
+- <h4>:blue_heart: Techs Secundárias: React.js e PL SQL Oracle entre outras.</h4>
+- <h4>:books: Bacharel em Sistemas de Informação pela PUCPR :heart:</h4>
+- <h4> 🌱 No momento estudando arquitetura de software - Azure container app, blazor e TDD.</h4>
 
 ---
 
