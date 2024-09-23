@@ -22,7 +22,6 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
   
 <div align="center">
   <a href="https://github.com/abnermatheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnermatheus&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnermatheus&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
